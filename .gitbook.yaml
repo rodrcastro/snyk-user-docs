@@ -94,4 +94,4 @@ redirects:
 
   # Recently added redirects
   scan-using-snyk/snyk-container/container-security-integrations/integrate-with-docker-hub/unauthorized-access-or-resource-does-not-exist-docker-hub: scan-using-snyk/snyk-container/container-security-integrations/integrate-with-docker-hub/configure-the-integration-with-docker-hub.md
-  scan-using-snyk/snyk-container/snyk-container-integrations/integrate-with-docker-hub/unauthorized-access-or-resource-does-not-exist-docker-hub: scan-using-snyk/snyk-container/container-security-integrations/integrate-with-docker-hub/configure-the-integration-with-docker-hub.md
+  # scan-using-snyk/snyk-container/snyk-container-integrations/integrate-with-docker-hub/unauthorized-access-or-resource-does-not-exist-docker-hub: scan-using-snyk/snyk-container/container-security-integrations/integrate-with-docker-hub/configure-the-integration-with-docker-hub.md
