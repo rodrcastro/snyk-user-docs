@@ -66,18 +66,18 @@ redirects:
   products/snyk-infrastructure-as-code/snyk-cli-for-infrastructure-as-code: snyk-cli/scan-and-maintain-projects-using-the-cli/snyk-cli-for-iac/README.md
   scan-applications/snyk-code/snyk-code-language-and-frameworks-support: getting-started/supported-languages-and-frameworks/README.md
   scan-applications/snyk-open-source/snyk-open-source-supported-languages-and-package-managers: getting-started/supported-languages-and-frameworks/README.md
-  products/snyk-code/security-rules-used-by-snyk-code: scan-with-snyk/snyk-code/snyk-code-security-rules/README.md 
+  products/snyk-code/security-rules-used-by-snyk-code: scan-with-snyk/snyk-code/snyk-code-security-rules/README.md
   scan-using-snyk/snyk-code/security-rules-used-by-snyk-code: scan-with-snyk/snyk-code/snyk-code-security-rules/README.md
   snyk-open-source/language-and-package-manager-support/snyk-for-golang: getting-started/supported-languages-and-frameworks/go.md
-  manage-risk/insights: manage-risk/snyk-apprisk/risk-based-prioritization-for-snyk-apprisk/README.md   
-  manage-issues/insights: manage-risk/snyk-apprisk/risk-based-prioritization-for-snyk-apprisk/README.md 
+  manage-risk/insights: manage-risk/snyk-apprisk/risk-based-prioritization-for-snyk-apprisk/README.md
+  manage-issues/insights: manage-risk/snyk-apprisk/risk-based-prioritization-for-snyk-apprisk/README.md
   manage-issues/insights/insights-setup: manage-risk/snyk-apprisk/risk-based-prioritization-for-snyk-apprisk/prioritization-setup/README.md
   manage-risk/insights/insights-setup: manage-risk/snyk-apprisk/risk-based-prioritization-for-snyk-apprisk/prioritization-setup/README.md
   scan-with-snyk/supported-languages-and-frameworks: getting-started/supported-languages-and-frameworks/README.md
   scan-application-code/snyk-code/snyk-code-language-and-framework-support: getting-started/supported-languages-and-frameworks/README.md
   manage-risk/insights/insights-setup/insights-setup-user-permissions: manage-risk/snyk-apprisk/risk-based-prioritization-for-snyk-apprisk/prioritization-setup/prioritization-setup-user-permissions.md
   manage-risk/insights/insights-setup/insights-setup-kubernetes-connector: manage-risk/snyk-apprisk/risk-based-prioritization-for-snyk-apprisk/prioritization-setup/prioritization-setup-kubernetes-connector.md
-  manage-risk/insights/insights-setup/insights-setup-image-scanning: manage-risk/snyk-apprisk/risk-based-prioritization-for-snyk-apprisk/prioritization-setup/prioritization-setup-image-scanning.md 
+  manage-risk/insights/insights-setup/insights-setup-image-scanning: manage-risk/snyk-apprisk/risk-based-prioritization-for-snyk-apprisk/prioritization-setup/prioritization-setup-image-scanning.md
   manage-issues/insights/insights-setup/insights-setup-associating-snyk-open-source-code-and-container-projects: manage-risk/snyk-apprisk/risk-based-prioritization-for-snyk-apprisk/prioritization-setup/prioritization-setup-associating-snyk-open-source-code-and-container-projects.md
   scan-applications/supported-languages-and-frameworks: getting-started/supported-languages-and-frameworks/README.md
   manage-risk/insights/insights-setup/insights-setup-associating-snyk-open-source-code-and-container-projects: manage-risk/snyk-apprisk/risk-based-prioritization-for-snyk-apprisk/prioritization-setup/prioritization-setup-associating-snyk-open-source-code-and-container-projects.md
@@ -90,7 +90,7 @@ redirects:
   more-info/disclosing-vulnerabilities/disclose-a-vulnerability-in-snyk-services: working-with-snyk/reporting-security-issues.md
   manage-risk/snyk-apprisk/prioritization-with-insights-for-snyk-apprisk: manage-risk/prioritize-issues-for-fixing/prioritization-for-snyk-apprisk.md
   manage-risk/snyk-apprisk/implementation-guide-for-snyk-apprisk: implement-snyk/enterprise-implementation-guide/README.md
-  manage-risk/snyk-apprisk/implementation-guide-for-snyk-apprisk/level-1-configure-snyk-apprisk-and-setup-integrations: implement-snyk/enterprise-implementation-guide/phase-2-configure-account/configure-snyk-apprisk-integrations.md  
+  manage-risk/snyk-apprisk/implementation-guide-for-snyk-apprisk/level-1-configure-snyk-apprisk-and-setup-integrations: implement-snyk/enterprise-implementation-guide/phase-2-configure-account/configure-snyk-apprisk-integrations.md
 
   # Recently added redirects
   scan-using-snyk/snyk-container/container-security-integrations/integrate-with-docker-hub/unauthorized-access-or-resource-does-not-exist-docker-hub: scan-using-snyk/snyk-container/container-security-integrations/integrate-with-docker-hub/configure-the-integration-with-docker-hub.md
