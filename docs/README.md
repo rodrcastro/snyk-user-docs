@@ -1,41 +1,11 @@
----
-cover: .gitbook/assets/Snyk General Banner.webp
-coverY: 0
----
+# Page 1
 
-# Snyk Documentation
+Id culpa Lorem sint exercitation occaecat nostrud quis velit. Laborum voluptate nisi eiusmod adipisicing ut do dolor adipisicing id. Magna ullamco consectetur minim est irure pariatur amet proident aliqua nostrud consequat. Laboris proident ullamco do est reprehenderit labore ex ut exercitation. Aliquip ullamco nostrud nulla pariatur in excepteur incididunt incididunt magna nisi aute deserunt velit. Reprehenderit eu nostrud cupidatat est aliqua est esse est sit amet adipisicing nisi veniam. Labore fugiat officia proident pariatur. Cupidatat aliquip fugiat laboris fugiat reprehenderit amet est.
 
-{% hint style="info" %}
-Stay up to date with the [latest updates in Snyk documentation](whats-new-in-the-snyk-docs.md).
-{% endhint %}
+Sint fugiat in aute anim anim exercitation adipisicing. Non qui quis officia dolor deserunt Lorem labore ad do nisi ea et incididunt Lorem. Ex laboris amet minim do consectetur et laborum qui mollit reprehenderit labore voluptate amet. Velit consequat anim non et velit non ullamco velit quis ut dolor. Nisi non elit ipsum nulla nostrud incididunt ullamco in velit laborum incididunt pariatur irure. Tempor ad sit amet elit proident sint ut magna sit cupidatat deserunt pariatur voluptate do.
 
-## Start using Snyk
+Anim Lorem tempor qui excepteur cillum labore id consequat tempor mollit. Fugiat do officia adipisicing. Laborum consectetur magna est reprehenderit mollit cillum proident nostrud. Minim pariatur do fugiat dolor occaecat velit officia incididunt incididunt excepteur occaecat quis ipsum commodo.
 
-<table data-header-hidden><thead><tr><th></th><th width="164.33333333333331"></th><th width="188"></th><th></th></tr></thead><tbody><tr><td>​<a href="getting-started/">Getting started</a><br>Start running Snyk to secure your code</td><td><a href="enterprise-setup/">Enterprise configuration</a><br>Use Snyk in an enterprise system</td><td><a href="implement-snyk/">Implement Snyk</a><br>Set up Snyk to run in your business</td><td><a href="supported-languages-package-managers-and-frameworks/">Supported languages</a><br>Match your language and framework to Snyk</td></tr></tbody></table>
+Quis aliqua reprehenderit duis et mollit dolore duis nostrud tempor. Cupidatat veniam et quis. Aliquip magna voluptate deserunt incididunt nisi esse. Consequat cupidatat dolore voluptate et labore commodo non enim culpa in quis. Consectetur qui dolore ipsum irure. Tempor do officia magna irure anim culpa id esse aliqua anim nisi excepteur. Laborum officia veniam cupidatat ullamco occaecat occaecat consectetur commodo deserunt officia in excepteur mollit.
 
-## Integrate with Snyk <a href="#explore-snyk-products" id="explore-snyk-products"></a>
-
-<table data-header-hidden><thead><tr><th width="247"></th><th width="252"></th><th width="177"></th></tr></thead><tbody><tr><td><a href="scm-ide-and-ci-cd-integrations/snyk-scm-integrations/">Git repositories</a><br>Connect code repos to Snyk</td><td><a href="scm-ide-and-ci-cd-integrations/snyk-ide-plugins-and-extensions/">IDEs</a><br>Use Snyk in your dev environment</td><td><a href="scm-ide-and-ci-cd-integrations/snyk-ci-cd-integrations/">CI/CD</a><br>Add Snyk to your CI/CD pipeline</td></tr></tbody></table>
-
-## Scan using Snyk <a href="#explore-snyk-products" id="explore-snyk-products"></a>
-
-| <p><a href="scan-with-snyk/">Scan with Snyk</a><br>Scan your code, open-source libraries, infrastructure, and containers</p> | <p><a href="snyk-cli/getting-started-with-the-snyk-cli.md">Scan with Snyk CLI</a><br>Scan with Snyk locally on your command line</p> |
-| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-
-## Manage your risk
-
-<table data-header-hidden><thead><tr><th width="254"></th><th width="325"></th></tr></thead><tbody><tr><td><a href="manage-risk/">Manage risk</a><br>Prioritize and report on Snyk scan results</td><td><a href="scan-with-snyk/snyk-apprisk/">Snyk AppRisk</a> <br>Implement a high-performing developer security program</td></tr></tbody></table>
-
-## Configuration and administration <a href="#use-other-resources" id="use-other-resources"></a>
-
-<table data-header-hidden><thead><tr><th width="259"></th><th></th></tr></thead><tbody><tr><td><a href="snyk-api/">Snyk API</a><br>Extend Snyk functions with the Snyk API</td><td><a href="snyk-admin/">Snyk Admin</a><br>Manage your Snyk system</td></tr></tbody></table>
-
-## Learning and information
-
-| <p><a href="https://learn.snyk.io/catalog/product-training/?type=product-training">Snyk product training</a><br>Courses to help you use Snyk functions</p> | <p>​<a href="https://support.snyk.io/hc/en-us">Snyk support</a><br>Access Support tickets and knowledgebase</p>       | <p>​<a href="https://snyk.io/advisor/">Snyk Advisor</a><br>Find the best package for your next project</p>         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| <p>​<a href="https://updates.snyk.io/">Snyk product updates</a><br>See the latest Snyk product information</p>                                             | <p>​<a href="https://security.snyk.io/">Snyk vulnerability DB</a><br>Our database for open source vulnerabilities</p> | <p><a href="https://status.snyk.io/">Snyk Status</a><br>Shows operational status and history for Snyk systems.</p> |
-
-{% hint style="success" %}
-[Sign up to use Snyk for free!](https://snyk.io/login?cta=sign-up\&loc=nav\&page=support\_docs\_page)
-{% endhint %}
+Non anim non minim occaecat pariatur cupidatat quis incididunt. Nostrud laborum aliqua velit et deserunt eu. Consequat minim cillum cillum est adipisicing. Officia aliqua aliqua in labore ut duis duis nostrud in labore. Labore fugiat do occaecat ex nisi commodo magna ipsum. Sint elit mollit nulla do mollit veniam do aliqua esse laborum aliqua veniam reprehenderit. Irure sunt minim eu. Nisi proident ipsum deserunt officia duis.
